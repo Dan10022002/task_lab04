@@ -28,3 +28,5 @@ git commit -m "First commit"<br/>
 git push origin master
 
 5. Авторизируемся на  https://travis-ci.org и запускаем тест сборки
+
+![test](https://api.travis-ci.org/Dan10022002/task_lab04.svg?branch=master&status=passed)
