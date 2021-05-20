@@ -19,7 +19,7 @@ git remote add origin https://github.com/Dan10022002/task_lab04.git_
 _touch .travis.yml<br/>
 vim .travis.yml_
 
-![travis](https://github.com/Dan10022002/task_lab04/edit/master/travis.png)
+![travis](https://github.com/Dan10022002/task_lab04/blob/master/travis.png
 
 4. Заливаем на гитхаб
 
