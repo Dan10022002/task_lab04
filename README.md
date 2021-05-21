@@ -5,8 +5,8 @@
 1. Создаём директорию и удалённый репозиторий
 
 _cd Dan10022002/workspace/tasks<br/>
-mkdir task_timp_lab04<br/>
-cd task_timp_lab04_
+mkdir task_lab04<br/>
+cd task_lab04_
 
 2. Клонируем файлы из прошлой лабораторной работы и удаляем ненужные (оставляем только заголовочные файлы, фалы реализаций и CMakeLists.txt 
 
