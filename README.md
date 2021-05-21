@@ -25,7 +25,7 @@ vim .travis.yml_
 
 _git add .<br/>
 git commit -m "First commit"<br/>
-git push origin master
+git push origin master_
 
 5. Авторизируемся на  https://travis-ci.org и запускаем тест сборки
 
